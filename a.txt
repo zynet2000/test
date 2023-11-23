@@ -1,0 +1,11 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 60A4-C7BF
+
+ Directory of C:\Users\zynet\test
+
+11/23/2023  10:22 PM    <DIR>          .
+11/23/2023  10:21 PM    <DIR>          ..
+11/23/2023  10:22 PM                 0 a.txt
+11/23/2023  10:20 PM                 6 README.md
+               2 File(s)              6 bytes
+               2 Dir(s)  275,496,730,624 bytes free
